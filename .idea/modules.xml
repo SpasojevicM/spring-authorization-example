@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-authorization-example.iml" filepath="$PROJECT_DIR$/spring-authorization-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-authorization-example.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-authorization-example.main.iml" />
     </modules>
   </component>
